@@ -1,0 +1,8 @@
+{
+  "name": "SLICE KEYBOARD MULTI-CHAN.",
+  "description": "Record audio and spread it across a digital keyboard. Each key plays a different segment of your recording.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
